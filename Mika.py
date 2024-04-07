@@ -4,7 +4,7 @@ import time
 import configparser
 import os
 
-TOKEN = 'NDE4NTEzODcwNTM0MjEzNjM1.DvkTYQ.kMo7yw9aWc8noPWXPJnQPMD_bAQ'
+TOKEN = 'NDE4NTEzODcwNTM0MjEzNjM1.DvkTYQ.kMo7yw9aWc8noPWXPJnQPMD_bAQ - Not valid anymore'
 
 BOT_PREFIX = '!'
 
