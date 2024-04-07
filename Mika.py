@@ -15,11 +15,6 @@ async def on_ready():
     await client.change_presence(game=Game(name="Super Smash Bros Ultimate"))
     print("Logged in as " + client.user.name)
 
-#@client.event
-#async def on_message(message):
-#    if message.author.name != "Deutscher Kaiser":
-#        if message.author.name == "Mika":
-
 @client.command()
 async def compile():
     await client.say("Ich kann sachen Compelieren...")
